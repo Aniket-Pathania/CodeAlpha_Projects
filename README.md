@@ -1,22 +1,21 @@
+💻 CodeAlpha Projects
+
+A collection of Java projects developed as part of my CodeAlpha Java Programming Internship.
+
+📚 Projects
+
 🎓 Student Grade Tracker
+A console-based Java application for managing student marks and generating grade reports.
 
-A Java console-based Student Grade Tracker developed for the CodeAlpha Java Programming Internship.
-
-✨ Features
-- Enter student details and marks
-- Store marks using arrays
-- Calculate total and average
-- Find highest and lowest marks
-- Calculate grade
-- Display subject-wise result
-- Input validation
-- Interactive menu
+🏨 Hotel Reservation System
+A Java-based hotel reservation application for managing rooms, bookings, cancellations, and payments.
 
 🛠️ Technologies
 - Java
+- OOP
 - Arrays
 - Loops
-- If-Else
+- File I/O
 - Scanner
 
 👨‍💻 Author
